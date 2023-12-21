@@ -1,6 +1,12 @@
+11111
+
 git init 
 
 ls = file check
 ls -al = all hidden file check
 
 git status = status check
+
+git add fileName
+
+git commit -m "added some command"
