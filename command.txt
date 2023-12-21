@@ -1,0 +1,6 @@
+git init 
+
+ls = file check
+ls -al = all hidden file check
+
+git status = status check
