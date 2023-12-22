@@ -1,4 +1,4 @@
-11111
+2222
 
 git init 
 
@@ -10,3 +10,5 @@ git status = status check
 git add fileName
 
 git commit -m "added some command"
+
+git diff = check the change
