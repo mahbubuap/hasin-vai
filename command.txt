@@ -12,3 +12,7 @@ git add fileName
 git commit -m "added some command"
 
 git diff = check the change
+
+git log = check all
+
+git show id = check specific change
